@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyr:home|Door43 (kyr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyr|d43-kyr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyr/archive/master.zip|d43-kyr.zip]]
+
+**Recent Changes**
+{{changes>ns = kyr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyr|Ethnologue data]]
+
